@@ -1,0 +1,7 @@
+//Main Reference Architecture & Arduino Code
+
+https://www.xsimulator.net/2dof-motion-simulator-truck-wiper-motor-playseat/
+
+
+
+//
