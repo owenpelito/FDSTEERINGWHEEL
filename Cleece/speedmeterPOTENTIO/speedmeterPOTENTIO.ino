@@ -22,4 +22,6 @@ void loop()
     digitalWrite(13,LOW);
   }
 }
-
+//formula
+//currentpotentioNumber / maxpotentionumber * max degree
+//5000 / 10000 * 180
