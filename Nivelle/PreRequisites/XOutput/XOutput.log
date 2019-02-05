@@ -1,0 +1,46 @@
+2019-02-06 03:39:55.943 +08:00 INFO  LanguageManager.set_Language: Language is set to English
+2019-02-06 03:39:55.951 +08:00 INFO  MainWindowViewModel.Initialize: Loading settings was successful.
+2019-02-06 03:39:56.022 +08:00 INFO  DirectDevice..ctor: PS(R) Gamepad Adaptor(4f442820-28b1-11e9-8001-444553540000)
+2019-02-06 03:39:56.022 +08:00 INFO  DirectDevice..ctor:   Axis 6 Flags: AbsoluteAxis InstanceNumber: 6 RawId: 0x00000602 offset: 0
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Y Axis Flags: AbsoluteAxis InstanceNumber: 1 RawId: 0x00000102 offset: 4
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   X Axis Flags: AbsoluteAxis InstanceNumber: 0 RawId: 0x00000002 offset: 8
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Z Rotation Flags: AbsoluteAxis InstanceNumber: 5 RawId: 0x00000502 offset: 12
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Z Axis Flags: AbsoluteAxis InstanceNumber: 2 RawId: 0x00000202 offset: 16
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Hat Switch Flags: PointOfViewController InstanceNumber: 0 RawId: 0x00000010 offset: 20
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Button 0 Flags: PushButton InstanceNumber: 0 RawId: 0x00000004 offset: 28
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Button 1 Flags: PushButton InstanceNumber: 1 RawId: 0x00000104 offset: 29
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Button 2 Flags: PushButton InstanceNumber: 2 RawId: 0x00000204 offset: 30
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Button 3 Flags: PushButton InstanceNumber: 3 RawId: 0x00000304 offset: 31
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Button 4 Flags: PushButton InstanceNumber: 4 RawId: 0x00000404 offset: 32
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Button 5 Flags: PushButton InstanceNumber: 5 RawId: 0x00000504 offset: 33
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Button 6 Flags: PushButton InstanceNumber: 6 RawId: 0x00000604 offset: 34
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Button 7 Flags: PushButton InstanceNumber: 7 RawId: 0x00000704 offset: 35
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Button 8 Flags: PushButton InstanceNumber: 8 RawId: 0x00000804 offset: 36
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Button 9 Flags: PushButton InstanceNumber: 9 RawId: 0x00000904 offset: 37
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Button 10 Flags: PushButton InstanceNumber: 10 RawId: 0x00000A04 offset: 38
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Button 11 Flags: PushButton InstanceNumber: 11 RawId: 0x00000B04 offset: 39
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Button 12 Flags: PushButton InstanceNumber: 12 RawId: 0x00000C04 offset: 40
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Button 13 Flags: PushButton InstanceNumber: 13 RawId: 0x00000D04 offset: 41
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Button 14 Flags: PushButton InstanceNumber: 14 RawId: 0x00000E04 offset: 42
+2019-02-06 03:39:56.023 +08:00 INFO  DirectDevice..ctor:   Button 15 Flags: PushButton InstanceNumber: 15 RawId: 0x00000F04 offset: 43
+2019-02-06 03:39:56.024 +08:00 INFO  DirectDevice..ctor:   Collection 0 - Joystick Flags: Collection, NoData InstanceNumber: 0 RawId: 0x000000C0 offset: 0
+2019-02-06 03:39:56.024 +08:00 INFO  DirectDevice..ctor:   Collection 1 Flags: Collection, NoData InstanceNumber: 1 RawId: 0x000001C0 offset: 0
+2019-02-06 03:39:56.029 +08:00 INFO  GameController.createXOutput: ViGEm devices are used.
+2019-02-06 03:39:56.043 +08:00 INFO  MainWindowViewModel.RefreshGameControllers: PS(R) Gamepad Adaptor(4f442820-28b1-11e9-8001-444553540000) is connected.
+2019-02-06 03:39:56.055 +08:00 INFO  GameController.createXOutput: ViGEm devices are used.
+2019-02-06 03:39:56.059 +08:00 INFO  MainWindow.WindowLoaded: The application has started.
+2019-02-06 03:39:56.636 +08:00 INFO  MainWindowViewModel.VersionCompare: Version is up-to-date
+2019-02-06 03:47:58.935 +08:00 INFO  MainWindowViewModel.SaveSettings: Saving settings was successful.
+2019-02-06 03:48:13.441 +08:00 INFO  GameController.Start: Emulation started on PS(R) Gamepad Adaptor(4f442820-28b1-11e9-8001-444553540000).
+2019-02-06 04:24:40.075 +08:00 INFO  GameController.Stop: Emulation stopped on PS(R) Gamepad Adaptor(4f442820-28b1-11e9-8001-444553540000).
+2019-02-06 04:25:56.536 +08:00 INFO  GameController.Start: Emulation started on PS(R) Gamepad Adaptor(4f442820-28b1-11e9-8001-444553540000).
+2019-02-06 04:41:21.203 +08:00 INFO  GameController.Stop: Emulation stopped on PS(R) Gamepad Adaptor(4f442820-28b1-11e9-8001-444553540000).
+2019-02-06 04:45:08.002 +08:00 INFO  MainWindowViewModel.SaveSettings: Saving settings was successful.
+2019-02-06 04:45:10.710 +08:00 INFO  MainWindowViewModel.SaveSettings: Saving settings was successful.
+2019-02-06 04:45:12.170 +08:00 INFO  MainWindowViewModel.SaveSettings: Saving settings was successful.
+2019-02-06 04:45:12.723 +08:00 INFO  MainWindowViewModel.SaveSettings: Saving settings was successful.
+2019-02-06 04:46:59.730 +08:00 INFO  GameController.Start: Emulation started on PS(R) Gamepad Adaptor(4f442820-28b1-11e9-8001-444553540000).
+2019-02-06 04:47:13.969 +08:00 INFO  GameController.Stop: Emulation stopped on PS(R) Gamepad Adaptor(4f442820-28b1-11e9-8001-444553540000).
+2019-02-06 04:47:26.285 +08:00 INFO  GameController.Start: Emulation started on PS(R) Gamepad Adaptor(4f442820-28b1-11e9-8001-444553540000).
+2019-02-06 06:05:29.335 +08:00 INFO  GameController.Stop: Emulation stopped on PS(R) Gamepad Adaptor(4f442820-28b1-11e9-8001-444553540000).
+2019-02-06 06:05:39.295 +08:00 INFO  MainWindow.WindowClosed: The application has exited.
