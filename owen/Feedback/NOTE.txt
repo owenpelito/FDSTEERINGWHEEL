@@ -45,7 +45,7 @@ NOTES
 		*Instruction 3 Step on gas pedal to Accelerate the Car
 		If hapit na ma abot ang player sa blue nga box pahunga silbig napay ga block sa whole lane
 		
-		*INSTRUCTION 4  the put the shifting gear into reverse mode to reverse
+		*INSTRUCTION 4 put the shifting gear into reverse mode to reverse and step the gas pedal to reverse
 		then maabli tong left side nga lane
 
 		*intruction 5 put the shifting gear to drive mode again
