@@ -1,0 +1,83 @@
+NOTES
+//CAR
+
+ *  Car Controls
+	
+	SHIFTING GEAR
+	
+	UP    - DRIVE
+	DOWN  - PARK (*basta wala naka park mode ang sakyanan kay mo accelerate sya iya pero hinay ra)
+	RIGHT - REVERSE	
+
+	AUTOMATIC CAR VIDEO REFERENCE 1.1 - "https://www.youtube.com/watch?v=2rc_i7cWdUs"	
+
+ * Car Mirrors
+
+
+ * Gear     - instead of 1-5 replaced by the shiftgear currently using D (DRIVE),P (PARK)or R (REVERSE) 
+			refer to figure 1.0
+
+
+	
+Level Design 
+
+	Input Test LVL - Not Working
+		
+		*Showing the picture of the input Refer to Figure 1.1
+	
+
+	god ma ka add kag loading screen?? loading Screen reference sample refer to figure 1.2
+			mga 6sec lng
+	
+	LOADING SCREEN
+	TITLE SCREEN before the start of lvl
+
+	LVL 1  title: Basic Controls Tutorial
+		
+		Car Starting Lane left/right side rather than center
+
+
+		*Intruction  1 Step on the break pedal and put the shifting gear into drive mode D(DRIVE)
+
+		*Instruction 2 Slowly release the break pedal (*explain why the car is moving (DRIVE TRAIN) 
+			refer to the reference video 1.1 (time frame 1:43)
+
+		*Instruction 3 Step on gas pedal to Accelerate the Car
+		If hapit na ma abot ang player sa blue nga box pahunga
+
+		*Intruction 4 Steer the wheel to the left to move the car left side
+		OBSTACLE NASAD 
+		*intruction 5 Steer the wheel to the right "                     "
+
+		Intruction 6 reach the end point of the road and put the shifting gear into parking mode
+				END OF PART 1
+
+			
+
+	LVL 2 title: Basic Street Signs
+
+		*intruction 1 Follow the road in order to reach MCDONALD/ANY and follow the street signs rules
+		
+introduce the street sign kong duol na sha pause kadyot the mo popup tong unsa to sya nga sign sample figure 1.3 & 1.4
+
+		ang end kay no parking nga.  sign tas nay murag parkinganan sa unahan  
+		figure 1.5 wala lng say parking obstacle sa lvl 3 nlng
+
+		LOADING SCREEN
+	LVL 3 title: Testing skills
+		
+		butangi part nga nay speed limit
+		ang last part kay parallel parking 
+		paused sa kadyot nya show tong murag 
+		tutorial how to parallel park
+		refer lng sa figure 1.6
+
+ 		nya ang parkinganan kay figure 1.7
+
+	THE ENDD THANK GOD GRADUATE NAJUD MI
+
+		
+
+
+
+
