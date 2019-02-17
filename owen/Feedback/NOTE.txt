@@ -43,13 +43,20 @@ NOTES
 			refer to the reference video 1.1 (time frame 1:43)
 
 		*Instruction 3 Step on gas pedal to Accelerate the Car
-		If hapit na ma abot ang player sa blue nga box pahunga
+		If hapit na ma abot ang player sa blue nga box pahunga silbig napay ga block sa whole lane
+		
+		*INSTRUCTION 4  the put the shifting gear into reverse mode to reverse
+		then maabli tong left side nga lane
 
-		*Intruction 4 Steer the wheel to the left to move the car left side
+		*intruction 5 put the shifting gear to drive mode again
+
+		*Intruction 6 Steer the wheel to the left to move the car left side
 		OBSTACLE NASAD 
-		*intruction 5 Steer the wheel to the right "                     "
+		*intruction 7 Steer the wheel to the right "                     "
 
-		Intruction 6 reach the end point of the road and put the shifting gear into parking mode
+		
+		
+		Intruction 8 reach the end point of the road and put the shifting gear into parking mode
 				END OF PART 1
 
 			
