@@ -19,7 +19,7 @@ NOTES
 
 
 	
-Level Design 
+//Level Design 
 
 	Input Test LVL - Not Working
 		
@@ -73,6 +73,26 @@ introduce the street sign kong duol na sha pause kadyot the mo popup tong unsa t
 		refer lng sa figure 1.6
 
  		nya ang parkinganan kay figure 1.7
+				
+				SCORE:100
+			   
+			     	- VIOLATIONS
+			     	- how well did he park
+				
+			SAMPLE:
+
+					
+					crashed 3times       -15 
+					lefturn violation    -10
+					lefturn violation    -10
+					speedlimit violation -10
+					not parked well      -5   /  good park - 0  / terrible parking -10
+			
+				
+				TOTAL SCORE :50/100
+			
+
+
 
 	THE ENDD THANK GOD GRADUATE NAJUD MI
 
