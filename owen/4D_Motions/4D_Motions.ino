@@ -16,27 +16,27 @@ void setup()
 
 void loop()
 {
-  char user_input;
+  String user_input;
 
   while (Serial.available())
   {
 
     user_input = Serial.read();
 
-    if (user_input == 'w')
+    if (user_input == "lowa")
     {
-      acc_pressed();
+      LowAngle();
       Serial.println("forward");
 
     }
-    else if (user_input == 'x')
+    else if (user_input == "lowsa")
     {
-      br();
+      LowestAngle();
       Serial.println("brake");
     }
-    else if (user_input == 's')
+    else if (user_input == "mida")
     {
-      stat();
+      middleangle();
       Serial.println("stable");
     }
 
@@ -59,28 +59,39 @@ void loop()
   }
 }
 
+void LowAngle() {
 
-void acc_pressed() {
-
+  megaServo1.write(110);
+  megaServo2.write(110);
  
+}
+
+void LowestAngle() {
+
+
   megaServo1.write(130);
   megaServo2.write(130);
- 
+
+
+void HighAngle() {
+
+
+  megaServo1.write(30);
+  megaServo2.write(30);
 
 }
 
-void br() {
-
+void HighestAngle() {
 
   megaServo1.write(0);
   megaServo2.write(0);
-
 }
 
-void stat() {
+void middleangle() {
   megaServo1.write(90);
   megaServo2.write(90);
 }
+
 
 void lt() {
 
@@ -93,31 +104,6 @@ void rt() {
 
   megaServo1.write(130);
   megaServo2.write(110);
-
-}
-
-
-
-
-
-
-
-
-
-void test()
-{
-  acc_pressed();
-  delay(1000);
-  br();
-  delay(1000);
-  rt();
-  delay(1000);
-  stat();
-  delay(1000);
-  lt();
-  Serial.println("TEST DONE");
-
-
 
 }
 
